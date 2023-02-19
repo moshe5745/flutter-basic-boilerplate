@@ -1,3 +1,3 @@
 # flutter-basic-boilerplate
 
-Packages: GetIt, Dio, Logger, SharedPreference
+Packages: GetIt, Dio, Logger, GoRoute, SharedPreference
