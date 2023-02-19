@@ -1,4 +1,4 @@
-import 'package:tfilafinder/services/index.dart';
+import 'package:app_name/services/index.dart';
 
 const uuidStorageKey = 'uuid';
 

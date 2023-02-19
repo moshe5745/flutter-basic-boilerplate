@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tfilafinder/router.dart';
-import 'package:tfilafinder/services/index.dart';
+import 'package:app_name/router.dart';
+import 'package:app_name/services/index.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'Tfila finder',
+      title: 'App name',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
